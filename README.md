@@ -4,7 +4,11 @@
 
 This repo will create a JSON collection of Google Earth Engine apps from my collaborators and those who have shared and publicly made apps available. This is not a complete subset and this list comes from the same users who have publicly shared codes or have provided read access to their repos. This runs using a Github action and auto refreshes once every week. 
 
-* Think of this as a snapshot of a subset of apps with the latest urls for these apps available in the [JSON file]
+* Find the most updated user: app [JSON here](https://raw.githubusercontent.com/samapriya/ee-appshot/main/app_urls.json)
+
+* Find the most updates source code to user: app [zip here](https://github.com/samapriya/ee-appshot/raw/main/ee-appshot.zip)
+
+* Think of this as a snapshot of a subset of apps with the latest urls for these apps available in the [JSON file](https://raw.githubusercontent.com/samapriya/ee-appshot/main/app_urls.json)
 
 ![ee_appshot](https://user-images.githubusercontent.com/6677629/142363013-f91f8299-499c-4ebf-b5e8-34794f93a466.gif)
 
