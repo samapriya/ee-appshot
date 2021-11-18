@@ -150,7 +150,7 @@ jobs:
                         applist, user_app_list = jurl(folder, user_list)
                         json_sorted = merge_dictionary_list(user_app_list)
                         with open("app_urls.json", "w") as out:
-                            json.dump(json_sorted, out, indent=4)
+                            json.dump(json_sorted, out, indent=4, sort_keys=True)
                         print("")
                         jsext(applist, folder)
                 except Exception as e:
