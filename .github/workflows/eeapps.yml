@@ -1,0 +1,198 @@
+name: ee_apps catalog
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 1 * * 0'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7.9' # install the python version needed
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade pip
+          pip install -U pip setuptools
+          pip install beautifulsoup4 requests lxml
+      - name: Script check
+        uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import requests
+            import os
+            import json
+            import sys
+            import shutil
+            import zipfile
+            from datetime import datetime
+            from bs4 import BeautifulSoup
+            from datetime import date
+
+            # Get today's date
+            dt = datetime.today().strftime('%Y-%m-%d')
+            pathway = os.path.dirname(os.path.realpath(__file__))
+            path = os.path.join(pathway, "EE-Apps_" + dt)
+
+
+            BASE_URL = ".users.earthengine.app"
+
+            def zip_directory(folder_path, zip_path):
+                with zipfile.ZipFile(zip_path, mode='w') as zipf:
+                    len_dir_path = len(folder_path)
+                    for root, _, files in os.walk(folder_path):
+                        for file in files:
+                            file_path = os.path.join(root, file)
+                            zipf.write(file_path, file_path[len_dir_path:])
+
+            def jsext(urllist, folder):
+                for i, url in enumerate(urllist):
+                    username = url.split(".user")[0].split("https://")[1]
+                    app_name = url.split("/")[-1]
+                    # print(username,app_name)
+                    if not os.path.exists(os.path.join(folder, username)):
+                        os.makedirs(os.path.join(folder, username))
+                    try:
+                        local_path = os.path.join(folder, username, f"{app_name}.js")
+                    except TypeError:
+                        local_path = os.path.join(
+                            folder, username, f"{app_name.encode('utf-8')}.js"
+                        )
+                    print(f"Writing {i+1} of {len(urllist)} apps")
+                    try:
+                        source = requests.get(url)
+                        html_content = source.text
+                        soup = BeautifulSoup(html_content, "html.parser")
+                        for articles in soup.find_all("script"):
+                            if not articles.string == None and articles.string.strip().startswith(
+                                "init"
+                            ):
+                                url = articles.string.strip().split('"')[1]
+                                if url.startswith("https"):
+                                    iscript = requests.get(url).json()
+                                    pt = iscript["path"]
+                                    scr = iscript["dependencies"][pt]
+                                    if not os.path.exists(local_path):
+                                        try:
+                                            file = open(local_path, "w", encoding="utf-8")
+                                            file.write(str(iscript["dependencies"][pt]).strip())
+                                            file.close()
+                                            clean_lines = []
+                                            with open(local_path, "r", encoding="utf-8") as f:
+                                                lines = f.readlines()
+                                                clean_lines = [
+                                                    l.strip("\n") for l in lines if l.strip()
+                                                ]
+                                            with open(local_path, "w", encoding="utf-8") as f:
+                                                f.writelines("\n".join(clean_lines))
+                                        except Exception as e:
+                                            print(e)
+                    except Exception as e:
+                        print(e)
+
+
+            def merge_dictionary_list(dict_list):
+                return {
+                    k: [d.get(k) for d in dict_list if k in d]  # explanation A
+                    for k in set().union(*dict_list)  # explanation B
+                }
+
+
+            app_urls = []
+            json_app_urls = []
+
+
+            def jurl(folder, user_list):
+                for user in user_list:
+                    url = f"https://{user}{BASE_URL}"
+                    try:
+                        source = requests.get(url).text
+                        soup = BeautifulSoup(source, "html.parser")
+
+                        for article in soup.find_all("div", class_="mdl-grid"):
+                            for li in article.find_all("a"):
+                                url = li["href"]
+                                name = li.get_text().strip()
+                                app_urls.append(str(url))
+                                json_app_urls.append({user: str(url)})
+                                print(f"Total unique url : {len(set(app_urls))}", end="\r")
+                    except Exception as e:
+                        pass
+                unique_url = list(set(app_urls))
+
+                return unique_url, json_app_urls
+
+
+            ulist = []
+
+
+            def eeapps():
+                dt = datetime.today().strftime('%Y-%m-%d')
+                try:
+                    folder = "ee-appshot"
+                except TypeError:
+                    folder = "ee-appshot"
+                try:
+                    with open("app_urls.json") as f:
+                        data = json.load(f)
+                        repo_user_list = [users for users,value in data.items()]
+                        user_list = list(set(repo_user_list))
+                        print(f"Processing a total of {len(user_list)} users")
+                        applist, user_app_list = jurl(folder, user_list)
+                        json_sorted = merge_dictionary_list(user_app_list)
+                        with open("app_urls.json", "w") as out:
+                            json.dump(json_sorted, out, indent=4)
+                        print("")
+                        jsext(applist, folder)
+                except Exception as e:
+                    print(e)
+                except (KeyboardInterrupt, SystemExit) as e:
+                    print("\n" + "Program escaped by User")
+                    sys.exit()
+                result = [
+                    os.path.join(dp, f)
+                    for dp, dn, filenames in os.walk(folder)
+                    for f in filenames
+                    if os.path.splitext(f)[1] == ".js"
+                ]
+                print(f"Written a total source code for {len(result)} apps")
+                zip_directory(folder, folder.split('.')[0]+'.zip')
+                shutil.rmtree(folder)
+            eeapps()
+      - name: file_check
+        run: ls -l -a
+      - name: commit files
+        continue-on-error: true
+        run: |
+          today=$(date +"%Y-%m-%d")
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "updated datasets ${today}" -a
+      - name: push changes
+        continue-on-error: true
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+      - name: Get the Numbers
+        run: |
+          echo "JSON_COUNT=$(cat app_urls.json | jq '.[] | length' | paste -s -d+ - | bc)" >> $GITHUB_ENV
+      - name: JSON counter
+        uses: schneegans/dynamic-badges-action@v1.1.0
+        with:
+          auth: ${{ secrets.GIST_SECRET }}
+          gistID: 6b74344d1e99aec6cce2aacb088aa34b
+          filename: eeapps.json
+          label: EE Apps
+          message: ${{ env.JSON_COUNT }}
+          color: green
