@@ -1,4 +1,4 @@
-# eesnap: Create Snapshot of Earth Engine Apps
+# ee-appshot: Create Snapshot of Earth Engine Apps
 
 [![Twitter URL](https://img.shields.io/twitter/follow/samapriyaroy?style=social)](https://twitter.com/intent/follow?screen_name=samapriyaroy)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
