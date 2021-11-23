@@ -56,19 +56,19 @@ jobs:
 
             def jsext(urllist, folder):
                 for i, url in enumerate(urllist):
-                    username = url.split(".user")[0].split("https://")[1]
-                    app_name = url.split("/")[-1]
-                    # print(username,app_name)
-                    if not os.path.exists(os.path.join(folder, username)):
-                        os.makedirs(os.path.join(folder, username))
                     try:
-                        local_path = os.path.join(folder, username, f"{app_name}.js")
-                    except TypeError:
-                        local_path = os.path.join(
-                            folder, username, f"{app_name.encode('utf-8')}.js"
-                        )
-                    print(f"Writing {i+1} of {len(urllist)} apps")
-                    try:
+                        username = url.split(".user")[0].split("https://")[1]
+                        app_name = url.split("/")[-1]
+                        # print(username,app_name)
+                        if not os.path.exists(os.path.join(folder, username)):
+                            os.makedirs(os.path.join(folder, username))
+                        try:
+                            local_path = os.path.join(folder, username, f"{app_name}.js")
+                        except TypeError:
+                            local_path = os.path.join(
+                                folder, username, f"{app_name.encode('utf-8')}.js"
+                            )
+                        print(f"Writing {i+1} of {len(urllist)} apps")
                         source = requests.get(url)
                         html_content = source.text
                         soup = BeautifulSoup(html_content, "html.parser")
@@ -127,6 +127,13 @@ jobs:
                                 print(f"Total unique url : {len(set(app_urls))}", end="\r")
                     except Exception as e:
                         pass
+                with open('twitter_app_urls.json') as f:
+                    data = json.load(f)
+                    for user, value in data.items():
+                        value_list = [val for val in value]
+                        for url in value_list:
+                            app_urls.append(str(url))
+                            json_app_urls.append({user: str(url)})
                 unique_url = list(set(app_urls))
 
                 return unique_url, json_app_urls
