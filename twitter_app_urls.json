@@ -1,0 +1,713 @@
+{
+    "abmigc": [
+        "https://abmigc.users.earthengine.app/view/harvest-area-spectral-regen-2018"
+    ],
+    "ag": [
+        "https://ag.users.earthengine.app/view/glaciertimelapse"
+    ],
+    "agronservice": [
+        "https://agronservice.users.earthengine.app/view/calidad-del-aire",
+        "https://agronservice.users.earthengine.app/view/cultivos-axarqua"
+    ],
+    "ahudson2": [
+        "https://ahudson2.users.earthengine.app/view/glad-surface-water-dynamics-1999-2018"
+    ],
+    "alannarebelo": [
+        "https://alannarebelo.users.earthengine.app/view/tokai-lulc-demo"
+    ],
+    "alexamm4": [
+        "https://alexamm4.users.earthengine.app/view/california-changes",
+        "https://alexamm4.users.earthengine.app/view/covid-19-air-pollution",
+        "https://alexamm4.users.earthengine.app/view/covid-19-planes-storage"
+    ],
+    "almoma153": [
+        "https://almoma153.users.earthengine.app/view/explorehistarfm",
+        "https://almoma153.users.earthengine.app/view/global-trait-maps-with-gee"
+    ],
+    "andreim": [
+        "https://andreim.users.earthengine.app/view/bfastmonitor"
+    ],
+    "anjardimarasakti": [
+        "https://anjardimarasakti.users.earthengine.app/view/simulatorcovid-19bandungraya"
+    ],
+    "arcilor72": [
+        "https://arcilor72.users.earthengine.app/view/incendi-calabria-mobile",
+        "https://arcilor72.users.earthengine.app/view/incendiomob",
+        "https://arcilor72.users.earthengine.app/view/mappatura-degli-incendi-in-calabria"
+    ],
+    "armkhudinyan": [
+        "https://armkhudinyan.users.earthengine.app/view/arm-az-border"
+    ],
+    "asrenninger": [
+        "https://asrenninger.users.earthengine.app/view/dimensionsofdevelopment"
+    ],
+    "aufaristama": [
+        "https://aufaristama.users.earthengine.app/"
+    ],
+    "awindle110": [
+        "https://awindle110.users.earthengine.app/view/no2covid"
+    ],
+    "aykanbayram": [
+        "https://aykanbayram.users.earthengine.app/view/cilekli-lis"
+    ],
+    "azad977": [
+        "https://azad977.users.earthengine.app/view/sentinel-2-beirut-explosion-app"
+    ],
+    "balakumaran247": [
+        "https://balakumaran247.users.earthengine.app/view/tnlulc"
+    ],
+    "benjaminpage8": [
+        "https://benjaminpage8.users.earthengine.app/view/canadawaterclarity",
+        "https://benjaminpage8.users.earthengine.app/view/conuswaterclarity"
+    ],
+    "biogeoscienceslaboxford": [
+        "https://biogeoscienceslaboxford.users.earthengine.app/view/beaglekelpcharts",
+        "https://biogeoscienceslaboxford.users.earthengine.app/view/kelpforests"
+    ],
+    "bnarayanarao": [
+        "https://bnarayanarao.users.earthengine.app/view/dpgrd"
+    ],
+    "brdwoodward": [
+        "https://brdwoodward.users.earthengine.app/view/czu-lightning-complex"
+    ],
+    "bullocke": [
+        "https://bullocke.users.earthengine.app/view/landsat-slider"
+    ],
+    "bzgeo": [
+        "https://bzgeo.users.earthengine.app/view/bz-forest-cover-modis-pt1",
+        "https://bzgeo.users.earthengine.app/view/bz-s1-multitemp",
+        "https://bzgeo.users.earthengine.app/view/bz-s1-multitemp-asc",
+        "https://bzgeo.users.earthengine.app/view/gt-atitlan-viewer-s2"
+    ],
+    "cartoscience": [
+        "https://cartoscience.users.earthengine.app/view/cloud-frequency",
+        "https://cartoscience.users.earthengine.app/view/crop-niche"
+    ],
+    "ceratocaryum": [
+        "http://ceratocaryum.users.earthengine.app/view/west-coast-mine-monitoring"
+    ],
+    "cgmatfeam": [
+        "https://cgmatfeam.users.earthengine.app/view/monitor-uv-aerosol-i"
+    ],
+    "chandana": [
+        "https://chandana.users.earthengine.app/view/michiganflood"
+    ],
+    "chiayilin94": [
+        "https://chiayilin94.users.earthengine.app/view/taiwan-slr"
+    ],
+    "christinnea": [
+        "https://christinnea.users.earthengine.app/view/itemissionscovid19"
+    ],
+    "class9": [
+        "https://class9.users.earthengine.app/view/westjapanflood"
+    ],
+    "claudiaherbert": [
+        "https://claudiaherbert.users.earthengine.app/view/prepost-fires-2020",
+        "https://claudiaherbert.users.earthengine.app/view/prepost-fires-2020--2021"
+    ],
+    "climatehorizons": [
+        "https://climatehorizons.users.earthengine.app/view/biodiversity-risk"
+    ],
+    "cmscheip": [
+        "https://cmscheip.users.earthengine.app/view/hazmapper"
+    ],
+    "corneliussenf": [
+        "https://corneliussenf.users.earthengine.app/view/european-disturbance-map"
+    ],
+    "coscher510": [
+        "https://coscher510.users.earthengine.app/view/gazabombing"
+    ],
+    "cowherd": [
+        "https://cowherd.users.earthengine.app/view/general-fire-app"
+    ],
+    "craigmahlasi": [
+        "https://craigmahlasi.users.earthengine.app/view/landcheck"
+    ],
+    "csheth": [
+        "https://csheth.users.earthengine.app/view/siang-dibang-lohit-brahmaputra-floods-2020"
+    ],
+    "datacemgundogan": [
+        "https://datacemgundogan.users.earthengine.app/view/covid19"
+    ],
+    "datadrivenlab": [
+        "https://datadrivenlab.users.earthengine.app/view/usuhiapp"
+    ],
+    "davidlagomasino": [
+        "https://davidlagomasino.users.earthengine.app/view/hurricaneirmamangroves"
+    ],
+    "davidtheobald8": [
+        "https://davidtheobald8.users.earthengine.app/view/global-human-modification-change"
+    ],
+    "deepakna": [
+        "https://deepakna.users.earthengine.app/view/global-irrigation-map-v3"
+    ],
+    "dhruvmehrotra3": [
+        "https://dhruvmehrotra3.users.earthengine.app/view/drones",
+        "https://dhruvmehrotra3.users.earthengine.app/view/earther-time-series"
+    ],
+    "dinama": [
+        "https://dinama.users.earthengine.app/view/visualizador-blooms-dinama"
+    ],
+    "dnschavarria": [
+        "https://dnschavarria.users.earthengine.app/view/inundaciones-guatuso-los-chiles-y-upala-julio-2021"
+    ],
+    "dpacheco": [
+        "https://dpacheco.users.earthengine.app/view/no2-troposfrico-ecuador"
+    ],
+    "eaglecopernicussar": [
+        "https://eaglecopernicussar.users.earthengine.app/view/descarga-srtm-mexico-marioluna"
+    ],
+    "earthengineedu": [
+        "https://earthengineedu.users.earthengine.app/view/surface-water-change"
+    ],
+    "ecosistemaslenticos": [
+        "https://ecosistemaslenticos.users.earthengine.app/view/lago-chinchaycocha-optico",
+        "https://ecosistemaslenticos.users.earthengine.app/view/lago-chinchaycocha-sar"
+    ],
+    "edgarmanrique30": [
+        "https://edgarmanrique30.users.earthengine.app/view/country-wide-map-of-travel-time-to-health-facilities-for-2018"
+    ],
+    "emaprlab": [
+        "https://emaprlab.users.earthengine.app/view/lt-gee-change-mapper",
+        "https://emaprlab.users.earthengine.app/view/lt-gee-fitted-index-delta-rgb-mapper",
+        "https://emaprlab.users.earthengine.app/view/lt-gee-pixel-time-series",
+        "https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator"
+    ],
+    "engcnalmeida": [
+        "https://engcnalmeida.users.earthengine.app/view/climbrasil"
+    ],
+    "erollero": [
+        "https://erollero.users.earthengine.app/view/lulc-esri-10-mts-geosur",
+        "https://erollero.users.earthengine.app/view/rio-parana"
+    ],
+    "estimacionesmagyp": [
+        "https://estimacionesmagyp.users.earthengine.app/view/mapafinandvi"
+    ],
+    "eutrophicationwatch": [
+        "https://eutrophicationwatch.users.earthengine.app/view/global-eutrophication-watch"
+    ],
+    "fahrulmuhamad20": [
+        "https://fahrulmuhamad20.users.earthengine.app/view/ndvi-change-west-kalimantan"
+    ],
+    "faocongo": [
+        "https://faocongo.users.earthengine.app/view/cafi-data"
+    ],
+    "fatwaramdani": [
+        "https://fatwaramdani.users.earthengine.app/view/makassar2017-2019"
+    ],
+    "felipellobo": [
+        "https://felipellobo.users.earthengine.app/view/algaemapv10"
+    ],
+    "fhuamani": [
+        "https://fhuamani.users.earthengine.app/view/incendiocusco"
+    ],
+    "fsn1995": [
+        "https://fsn1995.users.earthengine.app/view/iseeglacier"
+    ],
+    "gaitanjuanjose": [
+        "https://gaitanjuanjose.users.earthengine.app/view/idppasturaschaco"
+    ],
+    "gee-course": [
+        "https://gee-course.users.earthengine.app/view/nightwatch"
+    ],
+    "geerestec": [
+        "https://geerestec.users.earthengine.app/view/vega-restec"
+    ],
+    "gena": [
+        "https://gena.users.earthengine.app/view/corona-virus",
+        "https://gena.users.earthengine.app/view/corona-virus-nl",
+        "https://gena.users.earthengine.app/view/flood-2021-vancouver",
+        "https://gena.users.earthengine.app/view/flood-eu",
+        "https://gena.users.earthengine.app/view/goes",
+        "https://gena.users.earthengine.app/view/goes-animation",
+        "https://gena.users.earthengine.app/view/hand",
+        "https://gena.users.earthengine.app/view/hurricane-ida",
+        "https://gena.users.earthengine.app/view/last-scenes",
+        "https://gena.users.earthengine.app/view/nobody-lives-here",
+        "https://gena.users.earthengine.app/view/raddalert",
+        "https://gena.users.earthengine.app/view/uzbekistan-dam-break",
+        "https://gena.users.earthengine.app/view/water-watch"
+    ],
+    "geocis": [
+        "https://geocis.users.earthengine.app/view/bare-surfaces"
+    ],
+    "giacomofalchetta": [
+        "https://giacomofalchetta.users.earthengine.app/view/sunsetlover"
+    ],
+    "gistin": [
+        "https://gistin.users.earthengine.app/view/fogoasis"
+    ],
+    "giswqs": [
+        "https://giswqs.users.earthengine.app/view/naip-imagery-comparison",
+        "https://giswqs.users.earthengine.app/view/naip-imagery-viewer",
+        "https://giswqs.users.earthengine.app/view/url-parameters-demo",
+        "https://giswqs.users.earthengine.app/view/us-state-selector"
+    ],
+    "gustavoirgang": [
+        "https://gustavoirgang.users.earthengine.app/view/pop-covid-19"
+    ],
+    "hadicu06": [
+        "https://hadicu06.users.earthengine.app/view/greece-wildfire",
+        "https://hadicu06.users.earthengine.app/view/vis-modis-phenology"
+    ],
+    "hareldunn": [
+        "https://hareldunn.users.earthengine.app/"
+    ],
+    "idoublegy": [
+        "https://idoublegy.users.earthengine.app/view/westafricalandcover"
+    ],
+    "ieco": [
+        "https://ieco.users.earthengine.app/view/ecoee-example-webapp"
+    ],
+    "ingmarnitze": [
+        "https://ingmarnitze.users.earthengine.app/view/arcticdemviewer",
+        "https://ingmarnitze.users.earthengine.app/view/eo-timeseries-explorer-initze",
+        "https://ingmarnitze.users.earthengine.app/view/hotspottcvisapp"
+    ],
+    "intalulc": [
+        "https://intalulc.users.earthengine.app/view/mnc19-20",
+        "https://intalulc.users.earthengine.app/view/mnc20-21"
+    ],
+    "ivannalissaputra24": [
+        "https://ivannalissaputra24.users.earthengine.app/view/forest-cover-loss-of-indonesia"
+    ],
+    "j9herrer": [
+        "https://j9herrer.users.earthengine.app/view/annual-extremely-hot-days-in-los-angeles",
+        "https://j9herrer.users.earthengine.app/view/annual-mean-temperature-anomalies-relative-to-2005",
+        "https://j9herrer.users.earthengine.app/view/colombia-en-cuarentena-2019-2020",
+        "https://j9herrer.users.earthengine.app/view/fires-in-california-2020",
+        "https://j9herrer.users.earthengine.app/view/measuring-changes-in-land-cover-using-random-forest-classifier",
+        "https://j9herrer.users.earthengine.app/view/santiago-tobon",
+        "https://j9herrer.users.earthengine.app/view/urban-spatial-structure-of-american-metropolitan-regions"
+    ],
+    "jaafarhadi": [
+        "https://jaafarhadi.users.earthengine.app/view/hydrologic-curve-number"
+    ],
+    "jamesbrinkhoff": [
+        "https://jamesbrinkhoff.users.earthengine.app/view/annualndvi",
+        "https://jamesbrinkhoff.users.earthengine.app/view/dynamiclagoons",
+        "https://jamesbrinkhoff.users.earthengine.app/view/griffithfruit",
+        "https://jamesbrinkhoff.users.earthengine.app/view/wetlands"
+    ],
+    "jamesmfitton": [
+        "https://jamesmfitton.users.earthengine.app/view/coastxray"
+    ],
+    "jamonvdh": [
+        "https://jamonvdh.users.earthengine.app/view/gaza-bomb-damage-analysis",
+        "https://jamonvdh.users.earthengine.app/view/gaza-bomb-damage-discovery-map"
+    ],
+    "jasminemuir": [
+        "https://jasminemuir.users.earthengine.app/view/msavil578timeseries"
+    ],
+    "jeffreyryangroff": [
+        "https://jeffreyryangroff.users.earthengine.app/view/levittown-ny"
+    ],
+    "jhnienhuis": [
+        "http://jhnienhuis.users.earthengine.app/view/globaldelta",
+        "https://jhnienhuis.users.earthengine.app/",
+        "https://jhnienhuis.users.earthengine.app/view/changing-shores",
+        "https://jhnienhuis.users.earthengine.app/view/globaldelta"
+    ],
+    "jhowarth": [
+        "https://jhowarth.users.earthengine.app/view/billy-app",
+        "https://jhowarth.users.earthengine.app/view/fire-modis-firms-historical",
+        "https://jhowarth.users.earthengine.app/view/lights-change-time-neighborhood",
+        "https://jhowarth.users.earthengine.app/view/rgb-nighttime-lights"
+    ],
+    "jmleaglacio": [
+        "https://jmleaglacio.users.earthengine.app/view/polardemdifferencestoolvegu"
+    ],
+    "joaootavionf007": [
+        "https://joaootavionf007.users.earthengine.app/view/regionbasedclassification"
+    ],
+    "joshlivni": [
+        "https://joshlivni.users.earthengine.app/view/caldor-sentinel2"
+    ],
+    "jpoetzscher": [
+        "https://jpoetzscher.users.earthengine.app/view/air-quality-data-portal-aoi"
+    ],
+    "jsilvan": [
+        "https://jsilvan.users.earthengine.app/.../indices",
+        "https://jsilvan.users.earthengine.app/view/indices-espectrales-globales"
+    ],
+    "jstnbraaten": [
+        "https://jstnbraaten.users.earthengine.app/view/dos-bocas-refinery",
+        "https://jstnbraaten.users.earthengine.app/view/eo-timeseries-explorer",
+        "https://jstnbraaten.users.earthengine.app/view/kincade-fire-explorer",
+        "https://jstnbraaten.users.earthengine.app/view/landsat-timeseries-explorer",
+        "https://jstnbraaten.users.earthengine.app/view/mobile-ndvi",
+        "https://jstnbraaten.users.earthengine.app/view/nlcd-2016-impervious-surface-cover",
+        "https://jstnbraaten.users.earthengine.app/view/pdsi-explorer",
+        "https://jstnbraaten.users.earthengine.app/view/pdsi-explorer-global",
+        "https://jstnbraaten.users.earthengine.app/view/tongass-nf-logging",
+        "https://jstnbraaten.users.earthengine.app/view/uttarakhand-flood",
+        "https://jstnbraaten.users.earthengine.app/view/wilder-ranch-state-park-fire-treatment"
+    ],
+    "jtbsurrey": [
+        "https://jtbsurrey.users.earthengine.app/view/collserola-app"
+    ],
+    "juan0herrera": [
+        "https://juan0herrera.users.earthengine.app/view/uhi-visualization"
+    ],
+    "juandb": [
+        "https://juandb.users.earthengine.app/view/sar-watcher",
+        "https://juandb.users.earthengine.app/view/siradisa"
+    ],
+    "kaihu": [
+        "https://kaihu.users.earthengine.app/view/gmcal",
+        "https://kaihu.users.earthengine.app/view/srtm",
+        "https://kaihu.users.earthengine.app/view/taiwan-chi"
+    ],
+    "kalairamea": [
+        "https://kalairamea.users.earthengine.app/view/no2"
+    ],
+    "karolinazieba": [
+        "https://karolinazieba.users.earthengine.app/view/treelossnadlesnictwa"
+    ],
+    "khaledalshamaa": [
+        "https://khaledalshamaa.users.earthengine.app/view/wildfires",
+        "https://khaledalshamaa.users.earthengine.app/view/wildfiresand"
+    ],
+    "kristofvantricht": [
+        "https://kristofvantricht.users.earthengine.app/view/sarworld"
+    ],
+    "krotalo25": [
+        "https://krotalo25.users.earthengine.app/view/mapeo-de-inundaciones-sar"
+    ],
+    "labiadhmoez": [
+        "https://labiadhmoez.users.earthengine.app/view/canpoyheighttunisia"
+    ],
+    "leofabiop120": [
+        "https://leofabiop120.users.earthengine.app/view/etahonduras"
+    ],
+    "lfrmformacion": [
+        "https://lfrmformacion.users.earthengine.app/view/ebro-floods-1516th-april-2018"
+    ],
+    "loganmitchell": [
+        "https://loganmitchell.users.earthengine.app/view/covid-19-and-air-quality-in-utah"
+    ],
+    "lschreiber": [
+        "https://lschreiber.users.earthengine.app/view/sister"
+    ],
+    "luciovilla": [
+        "http://luciovilla.users.earthengine.app/view/monitorin",
+        "https://luciovilla.users.earthengine.app/view/monitoring-amazon-fires"
+    ],
+    "manishshah120": [
+        "https://manishshah120.users.earthengine.app/view/analysis-of-forest-canopy-height-dehing-patkai"
+    ],
+    "manmeet20singh15": [
+        "https://manmeet20singh15.users.earthengine.app/view/no2lockdown"
+    ],
+    "marcosmendezlordsburg": [
+        "https://marcosmendezlordsburg.users.earthengine.app/view/no2march20192020"
+    ],
+    "marcrusswurm": [
+        "https://marcrusswurm.users.earthengine.app/view/beirut-explosion-2020"
+    ],
+    "maulanadpr29": [
+        "https://maulanadpr29.users.earthengine.app/view/ndvi-kab-bengkalis-2020"
+    ],
+    "mbgfpeg": [
+        "https://mbgfpeg.users.earthengine.app/view/or2020fireimpactsviewerriverside",
+        "https://mbgfpeg.users.earthengine.app/view/orfireimpactsviewervx0aonsvxq1hqbox7yhmsu3fq6wy7hpttjyjunvsnjef"
+    ],
+    "mcwimberly": [
+        "https://mcwimberly.users.earthengine.app/view/wafordd21"
+    ],
+    "mdm": [
+        "https://mdm.users.earthengine.app/view/kerala-flood-2018"
+    ],
+    "mehtabsyed": [
+        "https://mehtabsyed.users.earthengine.app/view/night-lights"
+    ],
+    "meldasalhab": [
+        "https://meldasalhab.users.earthengine.app/view/covid-no2"
+    ],
+    "meritdataset": [
+        "https://meritdataset.users.earthengine.app/view/merit-hydro-visualization-and-interactive-map"
+    ],
+    "mgaute14": [
+        "https://mgaute14.users.earthengine.app/view/appmonitoreocambiosplantacionesforestalescorrientesv2",
+        "https://mgaute14.users.earthengine.app/view/caracterizacionplantacionesforestales4",
+        "https://mgaute14.users.earthengine.app/view/estadoydirecciondel-cambioplantacionesforestalescorrient",
+        "https://mgaute14.users.earthengine.app/view/heightforestplantationseucalyptus"
+    ],
+    "milad": [
+        "https://milad.users.earthengine.app/view/covid19nl",
+        "https://milad.users.earthengine.app/view/sentinel2tulips"
+    ],
+    "mmodou": [
+        "https://mmodou.users.earthengine.app/view/agristatisticsenegal2020"
+    ],
+    "murillop": [
+        "https://murillop.users.earthengine.app/view/amazoncol",
+        "https://murillop.users.earthengine.app/view/landchangeconflict"
+    ],
+    "ndmorndiaye": [
+        "https://ndmorndiaye.users.earthengine.app/view/mor",
+        "https://ndmorndiaye.users.earthengine.app/view/senegalsoilhealth",
+        "https://ndmorndiaye.users.earthengine.app/view/sipo"
+    ],
+    "nestorcaalsuc": [
+        "https://nestorcaalsuc.users.earthengine.app/view/dawi2021",
+        "https://nestorcaalsuc.users.earthengine.app/view/inundaciones-europa",
+        "https://nestorcaalsuc.users.earthengine.app/view/monitoreo-volcan-pacaya"
+    ],
+    "nigo1973": [
+        "https://nigo1973.users.earthengine.app/view/great-east-japan-earthquake-prepost-satellite-iamge-v11",
+        "https://nigo1973.users.earthengine.app/view/sentinel2-okinawa-v3",
+        "https://nigo1973.users.earthengine.app/view/sentinel2wildfire"
+    ],
+    "nitamihaidaniel": [
+        "https://nitamihaidaniel.users.earthengine.app/view/primofaro"
+    ],
+    "nkeikon": [
+        "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map",
+        "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map-with-pie-chart",
+        "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-with-bar-chart"
+    ],
+    "nlang": [
+        "https://nlang.users.earthengine.app/view/canopy-height-and-carbon-stock-southeast-asia-2020"
+    ],
+    "nrtwur": [
+        "https://nrtwur.users.earthengine.app/view/raddalert"
+    ],
+    "ollielballinger": [
+        "https://ollielballinger.users.earthengine.app/view/basra-oil",
+        "https://ollielballinger.users.earthengine.app/view/beirut",
+        "https://ollielballinger.users.earthengine.app/view/populated-area-voteshares",
+        "https://ollielballinger.users.earthengine.app/view/syria-nightlights"
+    ],
+    "openforisinitiative": [
+        "https://openforisinitiative.users.earthengine.app/view/emergency-compare"
+    ],
+    "orbtwz": [
+        "https://orbtwz.users.earthengine.app/view/iron-march-users-explorer",
+        "https://orbtwz.users.earthengine.app/view/radarinterferencetracker"
+    ],
+    "parevalo-bu": [
+        "https://parevalo-bu.users.earthengine.app/view/visualize-ccdc"
+    ],
+    "parevalo_bu": [
+        "https://parevalo_bu.users.earthengine.app"
+    ],
+    "pb463": [
+        "https://pb463.users.earthengine.app/view/fipnee2020"
+    ],
+    "pcrishi61": [
+        "https://pcrishi61.users.earthengine.app/view/eco-regions-by-area",
+        "https://pcrishi61.users.earthengine.app/view/global-above-and-below-biomass",
+        "https://pcrishi61.users.earthengine.app/view/global-tree-cover",
+        "https://pcrishi61.users.earthengine.app/view/rasterapp"
+    ],
+    "phedelt": [
+        "https://phedelt.users.earthengine.app/view/so2explorer",
+        "https://phedelt.users.earthengine.app/view/tropomiexplorer"
+    ],
+    "philipaudebert": [
+        "https://philipaudebert.users.earthengine.app/view/abc-map"
+    ],
+    "philtown81": [
+        "https://philtown81.users.earthengine.app/view/my-urban-forest"
+    ],
+    "pjgelabert": [
+        "https://pjgelabert.users.earthengine.app/view/pollution"
+    ],
+    "pmisson": [
+        "https://pmisson.users.earthengine.app/view/covid-19",
+        "https://pmisson.users.earthengine.app/view/la-palma-volcano",
+        "https://pmisson.users.earthengine.app/view/madrid-hotspots",
+        "https://pmisson.users.earthengine.app/view/tendsdiff",
+        "https://pmisson.users.earthengine.app/view/trends"
+    ],
+    "prakhar": [
+        "https://prakhar.users.earthengine.app/view/cloud-fraction-effect-on-nox",
+        "https://prakhar.users.earthengine.app/view/nox-in-time-of-corona"
+    ],
+    "priogladpy": [
+        "https://priogladpy.users.earthengine.app/view/priorizacion-de-alertas-glad-en-py"
+    ],
+    "puentesdiaz_test": [
+        "https://puentesdiaz_test.users.earthengine.app/view/firepunilla"
+    ],
+    "putriadinda2501": [
+        "https://putriadinda2501.users.earthengine.app/view/karhutla-lawu-2019"
+    ],
+    "rajatshinde2303": [
+        "https://rajatshinde2303.users.earthengine.app/view/ecoviz"
+    ],
+    "rajbhagatt": [
+        "https://rajbhagatt.users.earthengine.app/view/algal-blooms"
+    ],
+    "rbernet": [
+        "https://rbernet.users.earthengine.app/view/twml-rwanda"
+    ],
+    "rfinerma": [
+        "https://rfinerma.users.earthengine.app/view/ndvi-2010-to-2020-lake-tahoe"
+    ],
+    "ridgei": [
+        "https://ridgei.users.earthengine.app/view/atami-landslide-visualizer",
+        "https://ridgei.users.earthengine.app/view/grasp-earth-sar-tokyo-bay-credit"
+    ],
+    "rinkalpatel": [
+        "https://rinkalpatel.users.earthengine.app/view/ia-crop-damage-08-11-2020"
+    ],
+    "rjboothroyd1": [
+        "https://rjboothroyd1.users.earthengine.app/view/flooding-from-typhoon-ulysses-vamco-in-the-philippines"
+    ],
+    "rnanclares": [
+        "https://rnanclares.users.earthengine.app/view/ku-charlie"
+    ],
+    "rossbernet": [
+        "https://rossbernet.users.earthengine.app/view/creekfire"
+    ],
+    "rudiger": [
+        "https://rudiger.users.earthengine.app/view/cambiosimagenesradarv1",
+        "https://rudiger.users.earthengine.app/view/comparacioasterv1",
+        "https://rudiger.users.earthengine.app/view/comparacionlandsat7v1",
+        "https://rudiger.users.earthengine.app/view/comparacionsentinel2v1",
+        "https://rudiger.users.earthengine.app/view/guatecovidpopdensv1",
+        "https://rudiger.users.earthengine.app/view/mapa1",
+        "https://rudiger.users.earthengine.app/view/mappeodepresionesv1",
+        "https://rudiger.users.earthengine.app/view/viewgoesv1"
+    ],
+    "rudplatt": [
+        "https://rudplatt.users.earthengine.app/view/snowevaluator"
+    ],
+    "rutgerhofste": [
+        "https://rutgerhofste.users.earthengine.app/view/droughtappv01deu"
+    ],
+    "ryanpatrickrock": [
+        "https://ryanpatrickrock.users.earthengine.app/view/wildfireexplorer"
+    ],
+    "s5p_co_nederland": [
+        "https://s5p_co_nederland.users.earthengine.app/view/no2covid19nl2w"
+    ],
+    "sabenz": [
+        "https://sabenz.users.earthengine.app/view/surface-delta-t",
+        "https://sabenz.users.earthengine.app/view/urbanheatusa"
+    ],
+    "sachasiani": [
+        "https://sachasiani.users.earthengine.app/view/esrivsesa"
+    ],
+    "samapriya": [
+        "https://samapriya.users.earthengine.app/view/landcover10"
+    ],
+    "samsammurphy": [
+        "https://samsammurphy.users.earthengine.app/view/hotmap"
+    ],
+    "sandersson0013": [
+        "https://sandersson0013.users.earthengine.app/view/air-pollution-app"
+    ],
+    "savannalabnmsu": [
+        "https://savannalabnmsu.users.earthengine.app/view/wa-cropmap-30m"
+    ],
+    "schwehr": [
+        "https://schwehr.users.earthengine.app/view/fdcc-fire-simple-2-day-view",
+        "https://schwehr.users.earthengine.app/view/fdcf-fire-simple-1-day-view"
+    ],
+    "servirbz": [
+        "https://servirbz.users.earthengine.app/view/bz-flooding-june2020-1",
+        "https://servirbz.users.earthengine.app/view/bz-flooding-nov2020-1",
+        "https://servirbz.users.earthengine.app/view/bz-flooding-nov2020-2",
+        "https://servirbz.users.earthengine.app/view/tt-amanda-sentinel1-gt-1",
+        "https://servirbz.users.earthengine.app/view/tt-amanda-sentinel1-gt-2",
+        "https://servirbz.users.earthengine.app/view/tt-amanda-sentinel1-sv-1",
+        "https://servirbz.users.earthengine.app/view/tt-amanda-sentinel1-sv-2"
+    ],
+    "sgascoin": [
+        "https://sgascoin.users.earthengine.app/view/global-no2-monitor",
+        "https://sgascoin.users.earthengine.app/view/no2-time-series",
+        "https://sgascoin.users.earthengine.app/view/sierra-nevada-snow-monitor"
+    ],
+    "shokishimada": [
+        "https://shokishimada.users.earthengine.app/view/modisviirscompositeviewer",
+        "https://shokishimada.users.earthengine.app/view/pumicedetectionwithsentinel2jp",
+        "https://shokishimada.users.earthengine.app/view/sentinel2cloudmaskcomposite",
+        "https://shokishimada.users.earthengine.app/view/volcanicrockdetectionwithsentinel2"
+    ],
+    "shree1175": [
+        "https://shree1175.users.earthengine.app/.../tnc-ca"
+    ],
+    "shubhanu": [
+        "https://shubhanu.users.earthengine.app/view/greengood-labs-flood-explorer",
+        "https://shubhanu.users.earthengine.app/view/greengood-labs-gangetic-plain-flood-explorer"
+    ],
+    "sigyury": [
+        "https://sigyury.users.earthengine.app/view/covid19perudistritos"
+    ],
+    "skytruth-data": [
+        "https://skytruth-data.users.earthengine.app/view/chaco-canyon-wellpad-inspector"
+    ],
+    "slyfox6969": [
+        "https://slyfox6969.users.earthengine.app/"
+    ],
+    "sntopp": [
+        "https://sntopp.users.earthengine.app/view/mdd-hydroscape-explorer"
+    ],
+    "soilwatch": [
+        "https://soilwatch.users.earthengine.app/view/soilerosionwatch"
+    ],
+    "sommer": [
+        "https://sommer.users.earthengine.app/view/laimonthlyaggregates"
+    ],
+    "spiruel": [
+        "http://spiruel.users.earthengine.app/view/sentinel-2-flip-book",
+        "https://spiruel.users.earthengine.app/view/extreme-heat-visualiser"
+    ],
+    "ssebop": [
+        "https://ssebop.users.earthengine.app/view/ssebop-br"
+    ],
+    "teledeteccio": [
+        "http://teledeteccio.users.earthengine.app",
+        "https://teledeteccio.users.earthengine.app/view/demo"
+    ],
+    "thetreemap": [
+        "https://thetreemap.users.earthengine.app/view/burn-area-validation-simplified"
+    ],
+    "toni-m-delhoyo": [
+        "https://toni-m-delhoyo.users.earthengine.app/view/sentinel2"
+    ],
+    "uploads": [
+        "https://uploads.users.earthengine.app/view/habitat-types-map"
+    ],
+    "users.earthengine.app": [
+        "http://users.earthengine.app"
+    ],
+    "valeriepasquarella": [
+        "https://valeriepasquarella.users.earthengine.app/view/condition-monitoring-explorer",
+        "https://valeriepasquarella.users.earthengine.app/view/spectral-encounter-l8",
+        "https://valeriepasquarella.users.earthengine.app/view/spectral-encounter-s2"
+    ],
+    "wallacesilva": [
+        "https://wallacesilva.users.earthengine.app/view/precipitao"
+    ],
+    "wrd-iwmi": [
+        "https://wrd-iwmi.users.earthengine.app/view/crophealth"
+    ],
+    "wrd_iwmi": [
+        "https://wrd_iwmi.users.earthengine.app/view/global-cropland-monitoring-tool"
+    ],
+    "yaleschoolofmedicine": [
+        "https://yaleschoolofmedicine.users.earthengine.app/view/covidtestingus"
+    ],
+    "yanmedah": [
+        "https://yanmedah.users.earthengine.app/view/aplikasi-talakoko",
+        "https://yanmedah.users.earthengine.app/view/chlandtemp",
+        "https://yanmedah.users.earthengine.app/view/forechang"
+    ],
+    "yceo": [
+        "https://yceo.users.earthengine.app/view/uhimap"
+    ],
+    "ylfeng": [
+        "https://ylfeng.users.earthengine.app/view/forestdisturbanceafterhurricanemaria",
+        "https://ylfeng.users.earthengine.app/view/forestdisturbancemapinpr"
+    ],
+    "zandersamuel": [
+        "https://zandersamuel.users.earthengine.app/view/fire-inspector"
+    ],
+    "zoltansylvester": [
+        "https://zoltansylvester.users.earthengine.app/view/mamore-bar-types"
+    ]
+}
