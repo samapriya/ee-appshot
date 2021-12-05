@@ -581,7 +581,8 @@
         "https://anthonypjkent.users.earthengine.app/view/wash-bay-map"
     ],
     "antonbiatov": [
-        "https://antonbiatov.users.earthengine.app/view/rodogoshaburned2020"
+        "https://antonbiatov.users.earthengine.app/view/rodogoshaburned2020",
+        "https://antonbiatov.users.earthengine.app/view/smap-viewer-v2"
     ],
     "arcgistim": [
         "https://arcgistim.users.earthengine.app/view/krcs-baringo-11th-august-flood-monitoring-tool",
@@ -744,6 +745,7 @@
     ],
     "balakumaran247": [
         "https://balakumaran247.users.earthengine.app/view/tnlulc",
+        "https://balakumaran247.users.earthengine.app/view/tnwetlandencroachpotential",
         "https://balakumaran247.users.earthengine.app/view/tnlulc"
     ],
     "baldassarre": [
@@ -1108,6 +1110,7 @@
     "czhang11": [
         "https://czhang11.users.earthengine.app/view/agkit4ee-cdl-explorer",
         "https://czhang11.users.earthengine.app/view/agkit4ee-crop-frequency-explorer",
+        "https://czhang11.users.earthengine.app/view/agkit4ee-inseason",
         "https://czhang11.users.earthengine.app/view/grassland-explorer-demo"
     ],
     "dag": [
@@ -1201,7 +1204,8 @@
         "https://dededirgahayu11.users.earthengine.app/view/provitasv1",
         "https://dededirgahayu11.users.earthengine.app/view/provitasv2",
         "https://dededirgahayu11.users.earthengine.app/view/sstmodis",
-        "https://dededirgahayu11.users.earthengine.app/view/surveyriau20"
+        "https://dededirgahayu11.users.earthengine.app/view/surveyriau20",
+        "https://dededirgahayu11.users.earthengine.app/view/tambakgaramv1"
     ],
     "deepakna": [
         "https://deepakna.users.earthengine.app/view/global-irrigation-map-v3"
@@ -1589,6 +1593,7 @@
         "https://farda.users.earthengine.app/view/intertidal",
         "https://farda.users.earthengine.app/view/kakao",
         "https://farda.users.earthengine.app/view/landcover-ml",
+        "https://farda.users.earthengine.app/view/mlearning",
         "https://farda.users.earthengine.app/view/muria"
     ],
     "fathan1193": [
@@ -1633,7 +1638,6 @@
         "https://felipegee.users.earthengine.app/view/confusionmatrix"
     ],
     "felipellobo": [
-        "https://felipellobo.users.earthengine.app/view/algaemapv10",
         "https://felipellobo.users.earthengine.app/view/algaemapv11",
         "https://felipellobo.users.earthengine.app/view/algaemapv10"
     ],
@@ -1706,6 +1710,7 @@
     ],
     "franklinlmc": [
         "https://franklinlmc.users.earthengine.app/view/afishdescarga",
+        "https://franklinlmc.users.earthengine.app/view/agroclimaticodescarga",
         "https://franklinlmc.users.earthengine.app/view/amapfishcurso",
         "https://franklinlmc.users.earthengine.app/view/amapfishgerencia",
         "https://franklinlmc.users.earthengine.app/view/amapfishusuario",
@@ -1741,6 +1746,7 @@
         "https://franklinlmc.users.earthengine.app/view/mosaicomidagriplanetv4",
         "https://franklinlmc.users.earthengine.app/view/mosaicomidagriplanetv5",
         "https://franklinlmc.users.earthengine.app/view/mosaicomidagriplanetv6",
+        "https://franklinlmc.users.earthengine.app/view/mosaicomidagriplanetv7",
         "https://franklinlmc.users.earthengine.app/view/ndviperu1",
         "https://franklinlmc.users.earthengine.app/view/puntos2017",
         "https://franklinlmc.users.earthengine.app/view/sequiafao",
@@ -1849,6 +1855,7 @@
         "https://gena.users.earthengine.app/view/sentinel-1-max",
         "https://gena.users.earthengine.app/view/tailing-dam-toolbox",
         "https://gena.users.earthengine.app/view/test-reservoirs",
+        "https://gena.users.earthengine.app/view/tinitaly-alos",
         "https://gena.users.earthengine.app/view/turkey-drought-2020-2021",
         "https://gena.users.earthengine.app/view/upper-niger",
         "https://gena.users.earthengine.app/view/urban-lights",
@@ -3093,8 +3100,6 @@
         "https://mgaute14.users.earthengine.app/view/caracterizacionplantacionesforestalescorrientes",
         "https://mgaute14.users.earthengine.app/view/deteccionaprovechamientosplantacionesforestalesv1",
         "https://mgaute14.users.earthengine.app/view/direccioncambiosplantacionesforestalescorrientes",
-        "https://mgaute14.users.earthengine.app/view/estadosituacionplantacionesforestalesnea",
-        "https://mgaute14.users.earthengine.app/view/estadoydirecciondel-cambioplantacionesforestalescorrient",
         "https://mgaute14.users.earthengine.app/view/forest-height-of-eucalyptus",
         "https://mgaute14.users.earthengine.app/view/heightforestplantationseucalyptus",
         "https://mgaute14.users.earthengine.app/view/monitoreoplantacionesforestaleschaco",
@@ -3440,6 +3445,7 @@
         "https://ogordienko112.users.earthengine.app/view/ndvivsvh",
         "https://ogordienko112.users.earthengine.app/view/no2new",
         "https://ogordienko112.users.earthengine.app/view/numbericebergtest",
+        "https://ogordienko112.users.earthengine.app/view/seminargee2021",
         "https://ogordienko112.users.earthengine.app/view/sikorskiyndvi",
         "https://ogordienko112.users.earthengine.app/view/study-of-forest-cover-dynamics-monitoring-2021",
         "https://ogordienko112.users.earthengine.app/view/temperaturekyiv",
@@ -3595,6 +3601,7 @@
     "pjgelabert": [
         "https://pjgelabert.users.earthengine.app/view/climark",
         "https://pjgelabert.users.earthengine.app/view/cumbreviejaso2",
+        "https://pjgelabert.users.earthengine.app/view/dnbr-santa-coloma",
         "https://pjgelabert.users.earthengine.app/view/etmodis",
         "https://pjgelabert.users.earthengine.app/view/l5dayslider",
         "https://pjgelabert.users.earthengine.app/view/l7dayslider",
@@ -3619,6 +3626,7 @@
     ],
     "pmisson": [
         "https://pmisson.users.earthengine.app/view/covid-19",
+        "https://pmisson.users.earthengine.app/view/dmsp-viirs-comparison-tool",
         "https://pmisson.users.earthengine.app/view/la-palma-volcano",
         "https://pmisson.users.earthengine.app/view/madrid-hotspots",
         "https://pmisson.users.earthengine.app/view/trends",
@@ -4277,6 +4285,7 @@
         "https://soleimanisaeed.users.earthengine.app/view/chartnotpaneld",
         "https://soleimanisaeed.users.earthengine.app/view/codea",
         "https://soleimanisaeed.users.earthengine.app/view/codeb",
+        "https://soleimanisaeed.users.earthengine.app/view/dslst",
         "https://soleimanisaeed.users.earthengine.app/view/ligwal",
         "https://soleimanisaeed.users.earthengine.app/view/ndviperpixel"
     ],
@@ -4320,9 +4329,6 @@
         "https://ssebop.users.earthengine.app/view/ssebop-br-v101",
         "https://ssebop.users.earthengine.app/view/ssebop-v101",
         "https://ssebop.users.earthengine.app/view/ssebop-br"
-    ],
-    "st121047": [
-        "https://st121047.users.earthengine.app/view/ocean-parameters-mapping"
     ],
     "starmizi": [
         "https://starmizi.users.earthengine.app/view/klasifikasi",
@@ -4462,14 +4468,6 @@
         "https://treeline.users.earthengine.app/view/test",
         "https://treeline.users.earthengine.app/view/watershed"
     ],
-    "treinamento_GEE_00": [
-        "https://treinamento_GEE_00.users.earthengine.app/view/bertoua",
-        "https://treinamento_GEE_00.users.earthengine.app/view/iterative-chart-ndvi-evi",
-        "https://treinamento_GEE_00.users.earthengine.app/view/poaapp---visualize",
-        "https://treinamento_GEE_00.users.earthengine.app/view/selected-area-chart-index",
-        "https://treinamento_GEE_00.users.earthengine.app/view/surface-temperature-landsat578",
-        "https://treinamento_GEE_00.users.earthengine.app/view/surface-temperature-landsat578v2"
-    ],
     "tszheichoi": [
         "https://tszheichoi.users.earthengine.app/view/theme-park-through-the-years"
     ],
@@ -4499,6 +4497,7 @@
         "https://tzwgeeetest.users.earthengine.app/view/tzw0122test"
     ],
     "ucanwhatsappme": [
+        "https://ucanwhatsappme.users.earthengine.app/view/carbonmonoxidemap",
         "https://ucanwhatsappme.users.earthengine.app/view/gwalior",
         "https://ucanwhatsappme.users.earthengine.app/view/gzbclassifydashboard",
         "https://ucanwhatsappme.users.earthengine.app/view/gzblandcover",
@@ -4606,6 +4605,7 @@
         "https://wallacesilva.users.earthengine.app/view/distancevsfrequence",
         "https://wallacesilva.users.earthengine.app/view/firefrequence",
         "https://wallacesilva.users.earthengine.app/view/focos-de-calor-distrito-federal",
+        "https://wallacesilva.users.earthengine.app/view/geotiff-png-mapbiomas-gt-solos",
         "https://wallacesilva.users.earthengine.app/view/mapas-mapbiomas-fogo-coleao-1",
         "https://wallacesilva.users.earthengine.app/view/mapbiomas-fogo-beta",
         "https://wallacesilva.users.earthengine.app/view/mapbiomas-mapmachine",
