@@ -2,6 +2,9 @@
     "abmigc": [
         "https://abmigc.users.earthengine.app/view/harvest-area-spectral-regen-2018"
     ],
+    "adamhastie50":[
+      "https://adamhastie50.users.earthengine.app/view/peatthicknessperuvianamazonia"
+    ],
     "ag": [
         "https://ag.users.earthengine.app/view/glaciertimelapse"
     ],
@@ -29,6 +32,9 @@
     ],
     "anjardimarasakti": [
         "https://anjardimarasakti.users.earthengine.app/view/simulatorcovid-19bandungraya"
+    ],
+    "ariaesta":[
+      "https://ariaesta.users.earthengine.app/view/the-forest-visualizer"
     ],
     "arcilor72": [
         "https://arcilor72.users.earthengine.app/view/incendi-calabria-mobile",
@@ -81,7 +87,23 @@
     ],
     "cartoscience": [
         "https://cartoscience.users.earthengine.app/view/cloud-frequency",
-        "https://cartoscience.users.earthengine.app/view/crop-niche"
+        "https://cartoscience.users.earthengine.app/view/crop-niche",
+        "https://cartoscience.users.earthengine.app/view/cross-section",
+        "https://cartoscience.users.earthengine.app/view/fwdet-gee-mi",
+        "https://cartoscience.users.earthengine.app/view/gee-ted",
+        "https://cartoscience.users.earthengine.app/view/inverted-earth",
+        "https://cartoscience.users.earthengine.app/view/irrigation-malaria",
+        "https://cartoscience.users.earthengine.app/view/marginal-land",
+        "https://cartoscience.users.earthengine.app/view/maup",
+        "https://cartoscience.users.earthengine.app/view/maup-mapper-multi-scale-modis-ndvi",
+        "https://cartoscience.users.earthengine.app/view/outliers",
+        "https://cartoscience.users.earthengine.app/view/slope-design",
+        "https://cartoscience.users.earthengine.app/view/soil-and-elevation-profiler",
+        "https://cartoscience.users.earthengine.app/view/spectral-curve",
+        "https://cartoscience.users.earthengine.app/view/versions",
+        "https://cartoscience.users.earthengine.app/view/water-slider",
+        "https://cartoscience.users.earthengine.app/view/when-and-where-does-it-freeze",
+        "https://cartoscience.users.earthengine.app/view/where-is-agriculture"
     ],
     "ceratocaryum": [
         "http://ceratocaryum.users.earthengine.app/view/west-coast-mine-monitoring"
@@ -328,7 +350,8 @@
         "https://jhowarth.users.earthengine.app/view/rgb-nighttime-lights"
     ],
     "jmleaglacio": [
-        "https://jmleaglacio.users.earthengine.app/view/polardemdifferencestoolvegu"
+        "https://jmleaglacio.users.earthengine.app/view/polardemdifferencestoolvegu",
+        "https://jmleaglacio.users.earthengine.app/view/greenland-glacier-change-mobile"
     ],
     "joaootavionf007": [
         "https://joaootavionf007.users.earthengine.app/view/regionbasedclassification"
@@ -340,7 +363,10 @@
         "https://jpoetzscher.users.earthengine.app/view/air-quality-data-portal-aoi"
     ],
     "jsilvan": [
-        "https://jsilvan.users.earthengine.app/.../indices",
+        "https://jsilvan.users.earthengine.app/view/distribucin-potencial-de-fosas-clandestinas",
+        "https://jsilvan.users.earthengine.app/view/espacio-clandestino",
+        "https://jsilvan.users.earthengine.app/view/explorador-covid-19",
+        "https://jsilvan.users.earthengine.app/view/jrc-global-surface-water-mapping-layers-v12",
         "https://jsilvan.users.earthengine.app/view/indices-espectrales-globales"
     ],
     "jstnbraaten": [
@@ -405,6 +431,9 @@
     "luciovilla": [
         "http://luciovilla.users.earthengine.app/view/monitorin",
         "https://luciovilla.users.earthengine.app/view/monitoring-amazon-fires"
+    ],
+    "makeretaveitata": [
+      "https://makeretaveitata.users.earthengine.app/view/nov21tojan22so2"
     ],
     "manishshah120": [
         "https://manishshah120.users.earthengine.app/view/analysis-of-forest-canopy-height-dehing-patkai"
@@ -630,9 +659,16 @@
         "https://servirbz.users.earthengine.app/view/tt-amanda-sentinel1-sv-2"
     ],
     "sgascoin": [
-        "https://sgascoin.users.earthengine.app/view/global-no2-monitor",
-        "https://sgascoin.users.earthengine.app/view/no2-time-series",
-        "https://sgascoin.users.earthengine.app/view/sierra-nevada-snow-monitor"
+      "https://sgascoin.users.earthengine.app/view/alps-snow-monitor",
+      "https://sgascoin.users.earthengine.app/view/global-no2-monitor",
+      "https://sgascoin.users.earthengine.app/view/high-atlas-snow-monitor",
+      "https://sgascoin.users.earthengine.app/view/neige-100-km",
+      "https://sgascoin.users.earthengine.app/view/no2-time-series",
+      "https://sgascoin.users.earthengine.app/view/pyrenees-snow-monitor",
+      "https://sgascoin.users.earthengine.app/view/pyrenees-snow-monitor-anomaly",
+      "https://sgascoin.users.earthengine.app/view/sierra-nevada-snow-monitor",
+      "https://sgascoin.users.earthengine.app/view/snow-cover-area-time-series",
+      "https://sgascoin.users.earthengine.app/view/western-usa-snow-monitor"
     ],
     "shokishimada": [
         "https://shokishimada.users.earthengine.app/view/modisviirscompositeviewer",
@@ -641,7 +677,12 @@
         "https://shokishimada.users.earthengine.app/view/volcanicrockdetectionwithsentinel2"
     ],
     "shree1175": [
-        "https://shree1175.users.earthengine.app/.../tnc-ca"
+        "https://shree1175.users.earthengine.app/view/childsmeadowv21",
+        "https://shree1175.users.earthengine.app/view/monitoringsagehen",
+        "https://shree1175.users.earthengine.app/view/tnc-ca-closing-tree-inequality-cuti-212",
+        "https://shree1175.users.earthengine.app/view/tnc-ca-treeinequality131",
+        "https://shree1175.users.earthengine.app/view/urbanforestatlast2016v25",
+        "https://shree1175.users.earthengine.app/view/usurbantreecover2016"
     ],
     "shubhanu": [
         "https://shubhanu.users.earthengine.app/view/greengood-labs-flood-explorer",
@@ -679,14 +720,14 @@
     "thetreemap": [
         "https://thetreemap.users.earthengine.app/view/burn-area-validation-simplified"
     ],
+    "tnc-cuti":[
+      "https://tnc-cuti.earthengine.app/view/tnc-ca-closing-urban-treeinequity"
+    ],
     "toni-m-delhoyo": [
         "https://toni-m-delhoyo.users.earthengine.app/view/sentinel2"
     ],
     "uploads": [
         "https://uploads.users.earthengine.app/view/habitat-types-map"
-    ],
-    "users.earthengine.app": [
-        "http://users.earthengine.app"
     ],
     "valeriepasquarella": [
         "https://valeriepasquarella.users.earthengine.app/view/condition-monitoring-explorer",
