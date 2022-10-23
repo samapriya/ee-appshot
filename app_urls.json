@@ -860,6 +860,7 @@
         "https://blinking02.users.earthengine.app/view/test5"
     ],
     "bnarayanarao": [
+        "https://bnarayanarao.users.earthengine.app/view/dpgrd",
         "https://bnarayanarao.users.earthengine.app/view/dpgrd"
     ],
     "boombhupathi999": [
@@ -2134,7 +2135,22 @@
         "https://haaaker4.users.earthengine.app/view/demoapp"
     ],
     "hadicu06": [
-        "https://hadicu06.users.earthengine.app/view/vis-sentinel-1-color-ina",
+        "https://hadicu06.users.earthengine.app/view/composites-explorer",
+        "https://hadicu06.users.earthengine.app/view/explore-crowd-data",
+        "https://hadicu06.users.earthengine.app/view/global-mobile-network",
+        "https://hadicu06.users.earthengine.app/view/inspect-crowd-vs-experts-interpretation",
+        "https://hadicu06.users.earthengine.app/view/interactive-classification-eng",
+        "https://hadicu06.users.earthengine.app/view/quick-vis-gedi-vert-cover",
+        "https://hadicu06.users.earthengine.app/view/restore-geowiki-consensus-vis",
+        "https://hadicu06.users.earthengine.app/view/restoreplus-geowiki-companion",
+        "https://hadicu06.users.earthengine.app/view/temporal-weighted-composite",
+        "https://hadicu06.users.earthengine.app/view/vis-ccdc-change-provs",
+        "https://hadicu06.users.earthengine.app/view/vis-cci-ina",
+        "https://hadicu06.users.earthengine.app/view/vis-compare-esri-esa-10m-lc",
+        "https://hadicu06.users.earthengine.app/view/vis-modis-phenology",
+        "https://hadicu06.users.earthengine.app/view/vis-optic-radar-timeseries-onclick",
+        "https://hadicu06.users.earthengine.app/view/vis-speedtest-ookla-mobile-2020q3",
+        "https://hadicu06.users.earthengine.app/view/vis-wri-treeplantationina",
         "https://hadicu06.users.earthengine.app/view/greece-wildfire",
         "https://hadicu06.users.earthengine.app/view/vis-modis-phenology"
     ],
@@ -2276,6 +2292,8 @@
         "https://ingmarnitze.users.earthengine.app/view/hotspottcvisapp"
     ],
     "intalulc": [
+        "https://intalulc.users.earthengine.app/view/mnc21-22",
+        "https://intalulc.users.earthengine.app/view/redd-lulc-v5",
         "https://intalulc.users.earthengine.app/view/mnc19-20",
         "https://intalulc.users.earthengine.app/view/mnc20-21"
     ],
@@ -3489,6 +3507,7 @@
         "https://ogordienko112.users.earthengine.app/view/czech",
         "https://ogordienko112.users.earthengine.app/view/lab14jasu",
         "https://ogordienko112.users.earthengine.app/view/lab14jasuvideo",
+        "https://ogordienko112.users.earthengine.app/view/monitoring2022",
         "https://ogordienko112.users.earthengine.app/view/ndvivsvh",
         "https://ogordienko112.users.earthengine.app/view/newolives",
         "https://ogordienko112.users.earthengine.app/view/newrelief",
@@ -3694,6 +3713,7 @@
         "https://pmisson.users.earthengine.app/view/madridlight",
         "https://pmisson.users.earthengine.app/view/madridvideo",
         "https://pmisson.users.earthengine.app/view/malaga-granada-jaen",
+        "https://pmisson.users.earthengine.app/view/santander",
         "https://pmisson.users.earthengine.app/view/trends",
         "https://pmisson.users.earthengine.app/view/viirs-trends",
         "https://pmisson.users.earthengine.app/view/covid-19",
@@ -4109,6 +4129,7 @@
     ],
     "santiagobanchero": [
         "https://santiagobanchero.users.earthengine.app/view/chaco-collection-3",
+        "https://santiagobanchero.users.earthengine.app/view/pdr-demo",
         "https://santiagobanchero.users.earthengine.app/view/rfzonasftv7"
     ],
     "santiagoduarte09": [
@@ -4811,6 +4832,7 @@
         "https://yang.users.earthengine.app/view/georgia"
     ],
     "yangdi1031": [
+        "https://yangdi1031.users.earthengine.app/view/landsatimagerestorationndwi",
         "https://yangdi1031.users.earthengine.app/view/sallandcovertypequickcheck"
     ],
     "yangjie": [
