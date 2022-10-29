@@ -3,6 +3,8 @@
 [![Twitter URL](https://img.shields.io/twitter/follow/samapriyaroy?style=social)](https://twitter.com/intent/follow?screen_name=samapriyaroy)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![ee_app_count](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/samapriya/6b74344d1e99aec6cce2aacb088aa34b/raw/eeapps.json)
+[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Chai-teal)](https://www.buymeacoffee.com/samapriya)
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/samapriya)
 
 This repo will create a JSON collection of Google Earth Engine apps from my collaborators and those who have shared and publicly made apps available. This is not a complete subset and this list comes from the same users who have publicly shared codes or have provided read access to their repos. This runs using a Github action and auto refreshes once every week. 
 
