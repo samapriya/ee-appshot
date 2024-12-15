@@ -1351,9 +1351,6 @@
     "chengyan2017": [
         "https://chengyan2017.users.earthengine.app/view/s1s2camts"
     ],
-    "chengyun1431": [
-        "https://chengyun1431.users.earthengine.app/view/icesheet-melt"
-    ],
     "cherryhihi": [
         "https://cherryhihi.users.earthengine.app/view/test"
     ],
@@ -1710,6 +1707,7 @@
     ],
     "digdgeografo": [
         "https://digdgeografo.users.earthengine.app/view/flood-periods-donana",
+        "https://digdgeografo.users.earthengine.app/view/monitoreo-marabu",
         "https://digdgeografo.users.earthengine.app/view/ndvi",
         "https://digdgeografo.users.earthengine.app/view/ndvi-and-evi-landsat-time-series",
         "https://digdgeografo.users.earthengine.app/view/ndvitimelapse",
@@ -4733,9 +4731,6 @@
     "pjgelabert": [
         "https://pjgelabert.users.earthengine.app/view/climark",
         "https://pjgelabert.users.earthengine.app/view/composicionsrgb",
-        "https://pjgelabert.users.earthengine.app/view/dnbr-santa-coloma",
-        "https://pjgelabert.users.earthengine.app/view/idlocator",
-        "https://pjgelabert.users.earthengine.app/view/incartsea",
         "https://pjgelabert.users.earthengine.app/view/pollution"
     ],
     "plewis": [
