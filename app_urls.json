@@ -4996,7 +4996,8 @@
         "https://rasendriyaramanda.users.earthengine.app/view/sumeru",
         "https://rasendriyaramanda.users.earthengine.app/view/urban-heat-island-kota-surabaya",
         "https://rasendriyaramanda.users.earthengine.app/view/utfvi-kota-surabaya",
-        "https://rasendriyaramanda.users.earthengine.app/view/vegetation-and-non-vegetation-classification-of-bogor-city"
+        "https://rasendriyaramanda.users.earthengine.app/view/vegetation-and-non-vegetation-classification-of-bogor-city",
+        "https://rasendriyaramanda.users.earthengine.app/view/water-quality"
     ],
     "rashikaaCropPrediction": [
         "https://rashikaaCropPrediction.users.earthengine.app/view/crop-monitoring-pro"
