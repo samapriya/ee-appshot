@@ -2551,6 +2551,7 @@
         "https://glennwithtwons.users.earthengine.app/view/peninsula-fire-recovery"
     ],
     "gponce": [
+        "https://gponce.users.earthengine.app/view/appsolusstats",
         "https://gponce.users.earthengine.app/view/prism-norm-allotments",
         "https://gponce.users.earthengine.app/view/srer2017-neon-aop-data-explorer",
         "https://gponce.users.earthengine.app/view/srer2017neonrgb10cm",
@@ -4739,8 +4740,8 @@
     ],
     "plume": [
         "https://plume.users.earthengine.app/view/blog-1-ndvi-tsa",
-        "https://plume.users.earthengine.app/view/blog-3-water-coverage-change",
-        "https://plume.users.earthengine.app/view/test-top-ten-2"
+        "https://plume.users.earthengine.app/view/blog-2-river-plue",
+        "https://plume.users.earthengine.app/view/blog-3-water-coverage-change"
     ],
     "pmamuszka": [
         "https://pmamuszka.users.earthengine.app/view/ndvi-difference"
