@@ -1745,7 +1745,8 @@
     ],
     "dongluofan": [
         "https://dongluofan.users.earthengine.app/view/ccdcviewer",
-        "https://dongluofan.users.earthengine.app/view/jmu-bu-sevir-ast4"
+        "https://dongluofan.users.earthengine.app/view/jmu-bu-sevir-ast4",
+        "https://dongluofan.users.earthengine.app/view/landsat-s1-palsar-viewer"
     ],
     "dongora": [
         "https://dongora.users.earthengine.app/view/baregroundmappersoralo",
@@ -2551,6 +2552,7 @@
         "https://glennwithtwons.users.earthengine.app/view/peninsula-fire-recovery"
     ],
     "gponce": [
+        "https://gponce.users.earthengine.app/view/app-solus-stats-texture",
         "https://gponce.users.earthengine.app/view/appsolusstats",
         "https://gponce.users.earthengine.app/view/prism-norm-allotments",
         "https://gponce.users.earthengine.app/view/srer2017-neon-aop-data-explorer",
@@ -2755,6 +2757,7 @@
     "hydrosolutions": [
         "https://hydrosolutions.users.earthengine.app/view/centralasia-snowcover",
         "https://hydrosolutions.users.earthengine.app/view/cropmapper-ferghana",
+        "https://hydrosolutions.users.earthengine.app/view/india-reservoirs",
         "https://hydrosolutions.users.earthengine.app/view/sahel-water",
         "https://hydrosolutions.users.earthengine.app/view/zh-fiebermesser"
     ],
