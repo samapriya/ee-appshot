@@ -861,6 +861,7 @@
         "https://arjenhaag.users.earthengine.app/view/ndvi-west-africa",
         "https://arjenhaag.users.earthengine.app/view/nederland-in-de-sneeuw",
         "https://arjenhaag.users.earthengine.app/view/parterra",
+        "https://arjenhaag.users.earthengine.app/view/wateroverlast-flevoland",
         "https://arjenhaag.users.earthengine.app/view/wateroverlast-nl-wbd",
         "https://arjenhaag.users.earthengine.app/view/yearly-mosaics-landsat"
     ],
@@ -1834,7 +1835,6 @@
         "https://earthtestqa10.users.earthengine.app/view/myapp2"
     ],
     "earthtestqa18": [
-        "https://earthtestqa18.users.earthengine.app/view/aaabbbbbbbb",
         "https://earthtestqa18.users.earthengine.app/view/jacksss"
     ],
     "earthwallmaster": [
@@ -2919,8 +2919,7 @@
         "https://ivannalissaputra24.users.earthengine.app/view/forest-cover-loss-of-indonesia"
     ],
     "ivarzambrana": [
-        "https://ivarzambrana.users.earthengine.app/view/estanques",
-        "https://ivarzambrana.users.earthengine.app/view/simbfao"
+        "https://ivarzambrana.users.earthengine.app/view/estanques"
     ],
     "iwankubus": [
         "https://iwankubus.users.earthengine.app/view/tryapp"
