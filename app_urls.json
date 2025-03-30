@@ -2634,9 +2634,6 @@
         "https://gustavoonagel.users.earthengine.app/view/water-change-detection-1984-2020",
         "https://gustavoonagel.users.earthengine.app/view/water-surface-change-detection-algorithm-wscda"
     ],
-    "gwevanderzalm": [
-        "https://gwevanderzalm.users.earthengine.app/view/compute-river-widths"
-    ],
     "haaaker4": [
         "https://haaaker4.users.earthengine.app/view/demoapp"
     ],
@@ -3949,7 +3946,6 @@
         "https://matteoliviergfpoisy.users.earthengine.app/view/deforestation"
     ],
     "matthepler": [
-        "https://matthepler.users.earthengine.app/view/appvoices-helene-rainfall",
         "https://matthepler.users.earthengine.app/view/cfxwatch",
         "https://matthepler.users.earthengine.app/view/isonrock",
         "https://matthepler.users.earthengine.app/view/minewatch1101905",
