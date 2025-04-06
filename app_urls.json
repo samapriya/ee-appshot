@@ -933,6 +933,7 @@
         "https://ashwin8199.users.earthengine.app/view/optical-water-types",
         "https://ashwin8199.users.earthengine.app/view/water-area",
         "https://ashwin8199.users.earthengine.app/view/water-color",
+        "https://ashwin8199.users.earthengine.app/view/wavapp",
         "https://ashwin8199.users.earthengine.app/view/wetland-parameters"
     ],
     "asivitskissce": [
@@ -3296,6 +3297,7 @@
     ],
     "jsilvan": [
         "https://jsilvan.users.earthengine.app/view/asentamientos-urbanos",
+        "https://jsilvan.users.earthengine.app/view/biblioteca-espectral-forense",
         "https://jsilvan.users.earthengine.app/view/distribucin-potencial-de-fosas-clandestinas",
         "https://jsilvan.users.earthengine.app/view/espacio-clandestino",
         "https://jsilvan.users.earthengine.app/view/explorador-covid-19",
@@ -5323,6 +5325,7 @@
         "https://sachinbobbili.users.earthengine.app/view/esa-lulc-2021",
         "https://sachinbobbili.users.earthengine.app/view/glc-30m",
         "https://sachinbobbili.users.earthengine.app/view/india-district-explorer",
+        "https://sachinbobbili.users.earthengine.app/view/lulc-comparison",
         "https://sachinbobbili.users.earthengine.app/view/lulc-lst",
         "https://sachinbobbili.users.earthengine.app/view/solar-farm"
     ],
