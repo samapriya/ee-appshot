@@ -483,9 +483,6 @@
     "ael2014": [
         "https://ael2014.users.earthengine.app/view/sentinel-2-multispectral"
     ],
-    "aerodriguezm": [
-        "https://aerodriguezm.users.earthengine.app/view/geovisortesisrodriguezadrian"
-    ],
     "afotesfaye": [
         "https://afotesfaye.users.earthengine.app/view/afoethiopialandcover10m",
         "https://afotesfaye.users.earthengine.app/view/awash-flood-extent",
@@ -707,7 +704,6 @@
         "https://amreshcherry.users.earthengine.app/view/jalgaon-raver2021"
     ],
     "andersonmuchawona": [
-        "https://andersonmuchawona.users.earthengine.app/view/zambezi-valley--biodiversity-project-land-cover--map--2017",
         "https://andersonmuchawona.users.earthengine.app/view/zimbabwe-2017-land-cover-map"
     ],
     "andradejmn": [
@@ -960,6 +956,7 @@
     "atstahl": [
         "https://atstahl.users.earthengine.app/view/dynamic-world-land-cover---wa-counties",
         "https://atstahl.users.earthengine.app/view/naipview",
+        "https://atstahl.users.earthengine.app/view/sanjuanco-habitat",
         "https://atstahl.users.earthengine.app/view/sentinelview",
         "https://atstahl.users.earthengine.app/view/viewlateseasoncoverchange",
         "https://atstahl.users.earthengine.app/view/vspchange2020-21"
@@ -5325,7 +5322,9 @@
     "sachinbobbili": [
         "https://sachinbobbili.users.earthengine.app/view/elevation-explorer",
         "https://sachinbobbili.users.earthengine.app/view/esa-lulc-2021",
+        "https://sachinbobbili.users.earthengine.app/view/esri-land-cover-explorer",
         "https://sachinbobbili.users.earthengine.app/view/glc-30m",
+        "https://sachinbobbili.users.earthengine.app/view/global-tropical-cyclone-tracks",
         "https://sachinbobbili.users.earthengine.app/view/india-district-explorer",
         "https://sachinbobbili.users.earthengine.app/view/lulc-comparison",
         "https://sachinbobbili.users.earthengine.app/view/lulc-lst",
