@@ -957,6 +957,7 @@
         "https://atstahl.users.earthengine.app/view/dynamic-world-land-cover---wa-counties",
         "https://atstahl.users.earthengine.app/view/naipview",
         "https://atstahl.users.earthengine.app/view/sanjuanco-habitat",
+        "https://atstahl.users.earthengine.app/view/sanjuanco-moisture",
         "https://atstahl.users.earthengine.app/view/sentinelview",
         "https://atstahl.users.earthengine.app/view/viewlateseasoncoverchange",
         "https://atstahl.users.earthengine.app/view/vspchange2020-21"
@@ -4766,6 +4767,7 @@
         "https://pmisson.users.earthengine.app/view/malaga-granada-jaen",
         "https://pmisson.users.earthengine.app/view/santander",
         "https://pmisson.users.earthengine.app/view/sdgsat-1-p-iberica",
+        "https://pmisson.users.earthengine.app/view/spain-blackout",
         "https://pmisson.users.earthengine.app/view/trends",
         "https://pmisson.users.earthengine.app/view/viirs-inspector-area-black-marble",
         "https://pmisson.users.earthengine.app/view/viirs-trends",
@@ -4888,13 +4890,6 @@
     "rahulaus": [
         "https://rahulaus.users.earthengine.app/view/test",
         "https://rahulaus.users.earthengine.app/view/umang2021"
-    ],
-    "rahulharod": [
-        "https://rahulharod.users.earthengine.app/view/crop-health",
-        "https://rahulharod.users.earthengine.app/view/cropacreageblocklevel",
-        "https://rahulharod.users.earthengine.app/view/dccropacreage",
-        "https://rahulharod.users.earthengine.app/view/farmanalysis",
-        "https://rahulharod.users.earthengine.app/view/timeseries"
     ],
     "raianefcmachado": [
         "https://raianefcmachado.users.earthengine.app/view/relevo"
@@ -5188,7 +5183,6 @@
         "https://rogersckw9.users.earthengine.app/view/vegetatie-voorspelling"
     ],
     "rogierwesterhoff": [
-        "https://rogierwesterhoff.users.earthengine.app/view/aetvspet",
         "https://rogierwesterhoff.users.earthengine.app/view/nzrainfallrecharge",
         "https://rogierwesterhoff.users.earthengine.app/view/nzwatertable"
     ],
