@@ -622,6 +622,9 @@
     "alexamm4": [
         "https://alexamm4.users.earthengine.app/view/california-changes",
         "https://alexamm4.users.earthengine.app/view/covid-19-air-pollution",
+        "https://alexamm4.users.earthengine.app/view/covid-19-planes-storage",
+        "https://alexamm4.users.earthengine.app/view/california-changes",
+        "https://alexamm4.users.earthengine.app/view/covid-19-air-pollution",
         "https://alexamm4.users.earthengine.app/view/covid-19-planes-storage"
     ],
     "alexanderariza": [
@@ -3715,10 +3718,6 @@
     "loganmitchell": [
         "https://loganmitchell.users.earthengine.app/view/covid-19-and-air-quality-in-utah"
     ],
-    "lojanjulia": [
-        "https://lojanjulia.users.earthengine.app/view/app-mars-quilanga",
-        "https://lojanjulia.users.earthengine.app/view/incendios-loja"
-    ],
     "lpintos": [
         "https://lpintos.users.earthengine.app/view/irrigation-map-2020"
     ],
@@ -4756,6 +4755,7 @@
         "https://pmisson.users.earthengine.app/view/iberian-peninsula-colour-transition",
         "https://pmisson.users.earthengine.app/view/kiev",
         "https://pmisson.users.earthengine.app/view/la-palma-volcano",
+        "https://pmisson.users.earthengine.app/view/la-serena-chile",
         "https://pmisson.users.earthengine.app/view/madrid-covid-19",
         "https://pmisson.users.earthengine.app/view/madrid-hotspots",
         "https://pmisson.users.earthengine.app/view/madridchrismas",
@@ -4923,20 +4923,6 @@
     ],
     "ramakunto335482": [
         "https://ramakunto335482.users.earthengine.app/view/banjirmanila"
-    ],
-    "rambabu": [
-        "https://rambabu.users.earthengine.app/view/crop-classification",
-        "https://rambabu.users.earthengine.app/view/crop-monitoring-at-kasla-village",
-        "https://rambabu.users.earthengine.app/view/crop-monitoring-ndvi-at-narsapur-manadal",
-        "https://rambabu.users.earthengine.app/view/ghmc",
-        "https://rambabu.users.earthengine.app/view/hyderabad-terrain",
-        "https://rambabu.users.earthengine.app/view/kaleswaram",
-        "https://rambabu.users.earthengine.app/view/ndwi",
-        "https://rambabu.users.earthengine.app/view/tank-storage-volume",
-        "https://rambabu.users.earthengine.app/view/tank-surface-area-sar",
-        "https://rambabu.users.earthengine.app/view/tanks-in-narsapur-mandal-sar",
-        "https://rambabu.users.earthengine.app/view/vegetation-in-narsapur-mandal",
-        "https://rambabu.users.earthengine.app/view/village-wise-crop-classification"
     ],
     "ramdansdrsn": [
         "https://ramdansdrsn.users.earthengine.app/view/daerah-hijau-papua-barat"
