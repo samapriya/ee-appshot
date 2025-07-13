@@ -1745,7 +1745,8 @@
     "dongluofan": [
         "https://dongluofan.users.earthengine.app/view/ccdcviewer",
         "https://dongluofan.users.earthengine.app/view/jmu-bu-sevir-ast4",
-        "https://dongluofan.users.earthengine.app/view/landsat-s1-palsar-viewer"
+        "https://dongluofan.users.earthengine.app/view/landsat-s1-palsar-viewer",
+        "https://dongluofan.users.earthengine.app/view/object-time-series"
     ],
     "dongora": [
         "https://dongora.users.earthengine.app/view/baregroundmappersoralo",
@@ -4434,6 +4435,7 @@
         "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map",
         "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map-with-pie-chart",
         "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-with-bar-chart",
+        "https://nkeikon.users.earthengine.app/view/treecoverloss",
         "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map",
         "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map-with-pie-chart",
         "https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-with-bar-chart"
